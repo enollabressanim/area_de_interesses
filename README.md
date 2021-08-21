@@ -1,6 +1,6 @@
 # av3-prog
 
-Instruções a serem seguidas:  
+Instruções a serem seguidas em ambiente Windows:  
 
 Clonar repositorio;  
 Descompartar;  
