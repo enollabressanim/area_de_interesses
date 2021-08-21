@@ -12,6 +12,7 @@ virtualenv .
 Scripts\activate
 pip install -U flask flask-cors jsonify Flask-SQLAlchemy
 python area_interesses.py
+set FLASK_APP=server-backend.py
 flask run
 ```
 
